@@ -1,9 +1,9 @@
-![http://linuxserver.io](http://www.linuxserver.io/wp-content/uploads/2015/06/linuxserver_medium.png)
+![https://linuxserver.io](https://www.linuxserver.io/wp-content/uploads/2015/06/linuxserver_medium.png)
 
 The [LinuxServer.io](https://www.linuxserver.io/) team brings you another quality container, easy user mapping and community support. Be sure to checkout our [forums](https://forum.linuxserver.io/index.php) or for real-time support our [IRC](https://www.linuxserver.io/index.php/irc/) on freenode at `#linuxserver.io`.
 
 # lsiodev/daapd
-DAAP (iTunes) media server with support for AirPlay devices, Apple Remote (and compatibles), MPD and internet radio. [Forked-daapd](http://ejurgensen.github.io/forked-daapd/)
+DAAP (iTunes) media server with support for AirPlay devices, Apple Remote (and compatibles), MPD and internet radio. [Forked-daapd](https://ejurgensen.github.io/forked-daapd/)
 
 
 ## Usage
@@ -49,6 +49,7 @@ For further setup options of remotes etc, check out the daapd website, link abov
 
 
 ## Versions
++ **04.01.2016:** Disable ipv6 by default because in v23.4 it doesn't work in unraid with it set. 
 + **17.12.2015:** Add in spotify support.
 + **25.11.2015:** Initial Release. 
 
